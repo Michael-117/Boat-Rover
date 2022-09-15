@@ -1,6 +1,6 @@
 # Boat-Rover
 
-The focus of this project is an attempt to develop a suitable solution to survey the subsurface topography of a water body. This was done by creating a semi-autonomous rover capable of mapping its subsurface environment to a depth of 30m, as well as a base station controller.
+The focus of this project is an attempt to develop a suitable solution to survey the subsurface topography of a water body. This was done by designing and prototyping a semi-autonomous rover capable of mapping its subsurface environment to a depth of 30m, as well as a base station controller.
 
 ## Rover Design
 
