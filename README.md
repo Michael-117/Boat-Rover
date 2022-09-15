@@ -6,7 +6,8 @@ The focus of this project is an attempt to develop a suitable solution to survey
 
 The rover is built completely from the ground up. The chassis consists of PVC piping sealed to create an airtight frame using PVC wet cement. The rover takes inspiration from catamaran designs to bolster stability and airboats to decrease draft. Pool floats were attached to the twin hulls to increase bouyancy and adjust the trim of the craft, however. A platform of acrylic layed across the middle section of the chassis supports a watertight box within which the control circuitry resides. Affixed to the supporting acrylic are wooden beams to which motor are attached. All together, the rover looks like this:
 
-
+![Image 1](https://github.com/Michael-117/Boat-Rover/blob/main/IMG_20200714_203957.jpg)
+![Image 2](https://github.com/Michael-117/Boat-Rover/blob/main/IMG_20200714_204042.jpg)
 
 The rover's control circuitry uses the following components:
 * 1 x ESP-32 Microcontroller
