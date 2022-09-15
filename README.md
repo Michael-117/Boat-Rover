@@ -26,3 +26,6 @@ The navigation of the rover is managed by the pairing of the IMU and GPS module.
 
 
 ## Base Station Design
+
+
+![Image 3](https://github.com/Michael-117/Boat-Rover/blob/main/IMG_20200714_220740.jpg)
