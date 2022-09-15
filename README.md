@@ -22,10 +22,15 @@ The rover's control circuitry uses the following components:
 * 1 x DC-DC Buck Converter
 * 1 x BlueRobotics Ping Sonar
 
+The circuit schematic is as follows:
+
+![Image 3](https://github.com/Michael-117/Boat-Rover/blob/main/Final%20Project%20Schematic.png)
+
+
 The navigation of the rover is managed by the pairing of the IMU and GPS module. Differential motors are employed with the resulting heading and speed data to navigate to the target waypoints in turn. These waypoints are communicated to the rover through RF from the base station. As the rover traverses the area, mapping is carried out using the sonar at a sampling rate of 1Hz. Telemetry readings are continuously sent back to the base station to be archived and processed into a 3-D diagram. 
 
 
 ## Base Station Design
 
 
-![Image 3](https://github.com/Michael-117/Boat-Rover/blob/main/IMG_20200714_220740.jpg)
+![Image 4](https://github.com/Michael-117/Boat-Rover/blob/main/IMG_20200714_220740.jpg)
